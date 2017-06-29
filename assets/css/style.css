@@ -1,21 +1,22 @@
+
 body{
-	
+	background-image: url(../img/photo-1471970394675-613138e45da3/);
 	padding:3% 0;
-	background-color: skyblue;
+
 }
 
-section{
-	padding:2% 0;
-	background-color: #FCF9F9;
-	box-shadow: 15px 15px 40px;
+h1{
+	font-family: 'Architects Daughter', cursive;
+	color: #33D6D9;
 }
 
-header{
-	padding:0,5% 50%;
-	background-color: yellow;
-}
-button{
-	background-color: skyblue;
 
-	color: black;
+
+
+
+[type="checkbox"]:not(:checked), [type="checkbox"]:checked {
+    position: relative;
+    left: 0;
+    opacity: 1;
 }
+
