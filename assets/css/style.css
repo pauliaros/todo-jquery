@@ -1,17 +1,40 @@
 
 body{
-	background-image: url(../img/photo-1471970394675-613138e45da3/);
+	background-image: url(../img/photo-1471970394675-613138e45da3.jpg);
+	background-position: center;
 	padding:3% 0;
+	
 
 }
 
 h1{
 	font-family: 'Architects Daughter', cursive;
 	color: #33D6D9;
+
 }
 
+h5{
+	font-family: 'Architects Daughter', cursive;
+	color:#5B90C9;
+}
 
+button{
+	background: #E0E931;
+	color: white;
+	border: none;
+	padding: 10px;
+	margin-left: 30px;
+}
 
+p{
+	margin-left: 30px;
+}
+
+.container{
+
+	padding:2% 0;
+	background-color: rgba(187,212,208,0.7);
+}
 
 
 [type="checkbox"]:not(:checked), [type="checkbox"]:checked {

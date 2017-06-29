@@ -6,7 +6,7 @@ $(document).ready(function(){
 		if(tarea== ""){
 			alert("Debes agregar una tarea");
 		}else{
-			$("#comentarios").append("<p><input type='checkbox' class='check'>"+tarea+"<button class='delete'>Remove</button></p>");
+			$("#comentarios").append("<p><input type='checkbox' class='check' id='test6'vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv>"+tarea+"<button class='delete'>Remove</button></p>");
 		}
 	});
 
